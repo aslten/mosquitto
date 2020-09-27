@@ -1,0 +1,833 @@
+1600689440: mosquitto version 1.6.12 starting
+1600689440: Config loaded from /mosquitto/config/mosquitto.conf.
+1600689440: Opening ipv4 listen socket on port 1883.
+1600689440: Opening ipv6 listen socket on port 1883.
+1600689440: mosquitto version 1.6.12 running
+1600689599: New connection from 172.20.0.1 on port 1883.
+1600689599: New client connected from 172.20.0.1 as mosqsub|19199-raspberry (p2, c1, k60).
+1600689624: New connection from 172.20.0.1 on port 1883.
+1600689624: New client connected from 172.20.0.1 as mosqpub|19334-raspberry (p2, c1, k60).
+1600689624: Client mosqpub|19334-raspberry disconnected.
+1600689630: Socket error on client mosqsub|19199-raspberry, disconnecting.
+1600689634: mosquitto version 1.6.12 terminating
+1600689634: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600689668: mosquitto version 1.6.12 starting
+1600689668: Config loaded from /mosquitto/config/mosquitto.conf.
+1600689668: Opening ipv4 listen socket on port 1883.
+1600689668: Opening ipv6 listen socket on port 1883.
+1600689668: mosquitto version 1.6.12 running
+1600691469: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600693270: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600695071: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600696872: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600698673: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600700474: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600702275: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600704076: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600705877: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600707678: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600709479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600709480: mosquitto version 1.6.12 terminating
+1600709480: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600709988: mosquitto version 1.6.12 starting
+1600709988: Config loaded from /mosquitto/config/mosquitto.conf.
+1600709988: Opening ipv4 listen socket on port 1883.
+1600709988: Opening ipv6 listen socket on port 1883.
+1600709988: mosquitto version 1.6.12 running
+1600711417: mosquitto version 1.6.12 terminating
+1600711417: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600711420: mosquitto version 1.6.12 starting
+1600711420: Config loaded from /mosquitto/config/mosquitto.conf.
+1600711420: Error: Unable to open pwfile "/mosquitto/mosquitto.passwd".
+1600711420: Error opening password file "/mosquitto/mosquitto.passwd".
+1600711675: mosquitto version 1.6.12 starting
+1600711675: Config loaded from /mosquitto/config/mosquitto.conf.
+1600711675: Error: Unable to open pwfile "/mosquitto/mosquitto.passwd".
+1600711675: Error opening password file "/mosquitto/mosquitto.passwd".
+1600712142: mosquitto version 1.6.12 starting
+1600712142: Config loaded from /mosquitto/config/mosquitto.conf.
+1600712142: Error: Unable to open pwfile "/mosquitto/mosquitto.passwd".
+1600712142: Error opening password file "/mosquitto/mosquitto.passwd".
+1600712405: mosquitto version 1.6.12 starting
+1600712405: Config loaded from /mosquitto/config/mosquitto.conf.
+1600712405: Opening ipv4 listen socket on port 1883.
+1600712405: Opening ipv6 listen socket on port 1883.
+1600712405: mosquitto version 1.6.12 running
+1600712439: New connection from 172.21.0.1 on port 1883.
+1600712439: New client connected from 172.21.0.1 as mosqsub|7223-raspberryp (p2, c1, k60).
+1600712453: New connection from 172.21.0.1 on port 1883.
+1600712453: New client connected from 172.21.0.1 as mosqpub|7308-raspberryp (p2, c1, k60).
+1600712453: Client mosqpub|7308-raspberryp disconnected.
+1600712459: Socket error on client mosqsub|7223-raspberryp, disconnecting.
+1600712486: mosquitto version 1.6.12 terminating
+1600712486: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600712488: mosquitto version 1.6.12 starting
+1600712488: Config loaded from /mosquitto/config/mosquitto.conf.
+1600712488: Opening ipv4 listen socket on port 1883.
+1600712488: Opening ipv6 listen socket on port 1883.
+1600712488: mosquitto version 1.6.12 running
+1600712495: New connection from 172.21.0.1 on port 1883.
+1600712495: Socket error on client <unknown>, disconnecting.
+1600712515: New connection from 172.21.0.1 on port 1883.
+1600712515: New client connected from 172.21.0.1 as mosqsub|7906-raspberryp (p2, c1, k60, u'orwell').
+1600712541: New connection from 172.21.0.1 on port 1883.
+1600712541: New client connected from 172.21.0.1 as mosqpub|8030-raspberryp (p2, c1, k60, u'orwell').
+1600712541: Client mosqpub|8030-raspberryp disconnected.
+1600712545: Socket error on client mosqsub|7906-raspberryp, disconnecting.
+1600714289: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600716090: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600717891: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600719692: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600721493: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600723294: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600725095: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600726896: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600728697: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600730498: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600732299: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600734100: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600735901: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600737702: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600739503: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600741304: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600743105: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600744906: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600746707: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600748508: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600750309: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600752110: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600753911: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600755712: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600757513: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600757763: mosquitto version 1.6.12 terminating
+1600757763: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600757766: mosquitto version 1.6.12 starting
+1600757766: Config loaded from /mosquitto/config/mosquitto.conf.
+1600757766: Opening ipv4 listen socket on port 1883.
+1600757766: Opening ipv6 listen socket on port 1883.
+1600757766: mosquitto version 1.6.12 running
+1600759330: New connection from 172.21.0.1 on port 1883.
+1600759330: New client connected from 172.21.0.1 as mqttjs_c6ba0340 (p2, c1, k60).
+1600759330: Client mqttjs_c6ba0340 disconnected.
+1600759454: New connection from 172.21.0.1 on port 1883.
+1600759454: New client connected from 172.21.0.1 as mosqsub|18881-raspberry (p2, c1, k60).
+1600759459: New connection from 172.21.0.1 on port 1883.
+1600759459: New client connected from 172.21.0.1 as mqttjs_6df3b74c (p2, c1, k60).
+1600759459: Client mqttjs_6df3b74c disconnected.
+1600759473: New connection from 172.21.0.1 on port 1883.
+1600759473: New client connected from 172.21.0.1 as mqttjs_70074165 (p2, c1, k60).
+1600759473: Client mqttjs_70074165 disconnected.
+1600759567: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600760083: New connection from 172.21.0.1 on port 1883.
+1600760083: New client connected from 172.21.0.1 as mqttjs_315c6078 (p2, c1, k60).
+1600760083: Client mqttjs_315c6078 disconnected.
+1600760754: New connection from 172.21.0.1 on port 1883.
+1600760754: New client connected from 172.21.0.1 as mqttjs_969ee3d7 (p2, c1, k60).
+1600760754: Client mqttjs_969ee3d7 disconnected.
+1600760809: mosquitto version 1.6.12 terminating
+1600760809: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600760812: mosquitto version 1.6.12 starting
+1600760812: Config loaded from /mosquitto/config/mosquitto.conf.
+1600760812: Opening ipv4 listen socket on port 1883.
+1600760812: Opening ipv6 listen socket on port 1883.
+1600760812: mosquitto version 1.6.12 running
+1600760812: New connection from 172.21.0.1 on port 1883.
+1600760812: Socket error on client <unknown>, disconnecting.
+1600760829: New connection from 172.21.0.1 on port 1883.
+1600760829: New client connected from 172.21.0.1 as mosqsub|26367-raspberry (p2, c1, k60, u'orwell').
+1600760842: New connection from 172.21.0.1 on port 1883.
+1600760842: Socket error on client <unknown>, disconnecting.
+1600760944: New connection from 172.21.0.1 on port 1883.
+1600760944: Socket error on client <unknown>, disconnecting.
+1600760994: mosquitto version 1.6.12 terminating
+1600760994: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600760996: mosquitto version 1.6.12 starting
+1600760996: Config loaded from /mosquitto/config/mosquitto.conf.
+1600760996: Opening ipv4 listen socket on port 1883.
+1600760996: Opening ipv6 listen socket on port 1883.
+1600760996: mosquitto version 1.6.12 running
+1600760997: New connection from 172.21.0.1 on port 1883.
+1600760997: New client connected from 172.21.0.1 as mosqsub|26367-raspberry (p2, c1, k60, u'orwell').
+1600761014: New connection from 172.21.0.1 on port 1883.
+1600761014: New client connected from 172.21.0.1 as mqttjs_cf6ed027 (p2, c1, k60).
+1600761014: Client mqttjs_cf6ed027 disconnected.
+1600761022: New connection from 172.21.0.1 on port 1883.
+1600761022: New client connected from 172.21.0.1 as mqttjs_d54bd1fc (p2, c1, k60).
+1600761022: Client mqttjs_d54bd1fc disconnected.
+1600761045: mosquitto version 1.6.12 terminating
+1600761045: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600761047: mosquitto version 1.6.12 starting
+1600761047: Config loaded from /mosquitto/config/mosquitto.conf.
+1600761047: Opening ipv4 listen socket on port 1883.
+1600761047: Opening ipv6 listen socket on port 1883.
+1600761047: mosquitto version 1.6.12 running
+1600761048: New connection from 172.21.0.1 on port 1883.
+1600761048: New client connected from 172.21.0.1 as mosqsub|26367-raspberry (p2, c1, k60, u'orwell').
+1600761234: New connection from 172.21.0.1 on port 1883.
+1600761234: New client connected from 172.21.0.1 as mqttjs_250a80ad (p2, c1, k60, u'orwell').
+1600761234: Client mqttjs_250a80ad disconnected.
+1600761251: New connection from 172.21.0.1 on port 1883.
+1600761251: Socket error on client <unknown>, disconnecting.
+1600761401: New connection from 172.21.0.1 on port 1883.
+1600761401: New client connected from 172.21.0.1 as mqttjs_5a4f5763 (p2, c1, k60, u'orwell').
+1600761401: Client mqttjs_5a4f5763 disconnected.
+1600762848: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600762953: New connection from 172.21.0.1 on port 1883.
+1600762953: New client connected from 172.21.0.1 as mqttjs_087ccc9f (p2, c1, k60, u'orwell').
+1600762953: Client mqttjs_087ccc9f disconnected.
+1600762972: New connection from 172.21.0.1 on port 1883.
+1600762972: New client connected from 172.21.0.1 as mqttjs_4f15c771 (p2, c1, k60, u'orwell').
+1600762972: Client mqttjs_4f15c771 disconnected.
+1600762989: New connection from 172.21.0.1 on port 1883.
+1600762989: New client connected from 172.21.0.1 as mqttjs_0d216b88 (p2, c1, k60, u'orwell').
+1600762989: Client mqttjs_0d216b88 disconnected.
+1600763189: New connection from 172.21.0.1 on port 1883.
+1600763189: New client connected from 172.21.0.1 as mqttjs_1ed48e88 (p2, c1, k60, u'orwell').
+1600763189: Client mqttjs_1ed48e88 disconnected.
+1600763217: New connection from 172.21.0.1 on port 1883.
+1600763217: New client connected from 172.21.0.1 as mqttjs_4670e124 (p2, c1, k60, u'orwell').
+1600763217: Client mqttjs_4670e124 disconnected.
+1600763447: New connection from 172.21.0.1 on port 1883.
+1600763447: New client connected from 172.21.0.1 as mqttjs_1d295339 (p2, c1, k60, u'orwell').
+1600763447: Client mqttjs_1d295339 disconnected.
+1600763587: New connection from 172.21.0.1 on port 1883.
+1600763587: New client connected from 172.21.0.1 as mqttjs_9fce4025 (p2, c1, k60, u'orwell').
+1600763587: Client mqttjs_9fce4025 disconnected.
+1600763744: New connection from 172.21.0.1 on port 1883.
+1600763744: New client connected from 172.21.0.1 as mqttjs_a61ed593 (p2, c1, k60, u'orwell').
+1600763744: Client mqttjs_a61ed593 disconnected.
+1600764649: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600765124: New connection from 172.21.0.1 on port 1883.
+1600765124: New client connected from 172.21.0.1 as mqttjs_9fb13051 (p2, c1, k60, u'orwell').
+1600765124: Client mqttjs_9fb13051 disconnected.
+1600766450: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600766670: New connection from 172.21.0.1 on port 1883.
+1600766670: New client connected from 172.21.0.1 as mqttjs_8e00c19d (p2, c1, k60, u'orwell').
+1600766682: Client mqttjs_8e00c19d disconnected.
+1600766729: Socket error on client mosqsub|26367-raspberry, disconnecting.
+1600766738: New connection from 172.21.0.1 on port 1883.
+1600766738: New client connected from 172.21.0.1 as mosqsub|24568-raspberry (p2, c1, k60, u'orwell').
+1600766747: New connection from 172.21.0.1 on port 1883.
+1600766747: New client connected from 172.21.0.1 as mqttjs_c6833fd5 (p2, c1, k60, u'orwell').
+1600766751: Client mqttjs_c6833fd5 disconnected.
+1600767124: New connection from 172.21.0.1 on port 1883.
+1600767124: New client connected from 172.21.0.1 as mqttjs_8bb14598 (p2, c1, k60, u'orwell').
+1600767136: Client mqttjs_8bb14598 disconnected.
+1600767406: Socket error on client mosqsub|24568-raspberry, disconnecting.
+1600767482: New connection from 172.21.0.1 on port 1883.
+1600767482: New client connected from 172.21.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600767494: New connection from 172.21.0.1 on port 1883.
+1600767494: New client connected from 172.21.0.1 as mqttjs_9d0e3997 (p2, c1, k60, u'orwell').
+1600767505: Client mqttjs_9d0e3997 disconnected.
+1600768251: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600769393: New connection from 172.21.0.1 on port 1883.
+1600769393: New client connected from 172.21.0.1 as auto-640B10F3-52A3-B913-4438-B8E97D63E46B (p2, c1, k60, u'orwell').
+1600769432: New connection from 172.21.0.1 on port 1883.
+1600769432: New client connected from 172.21.0.1 as mqttjs_8748b2a5 (p2, c1, k60, u'orwell').
+1600769443: Client mqttjs_8748b2a5 disconnected.
+1600769505: Client auto-640B10F3-52A3-B913-4438-B8E97D63E46B disconnected.
+1600769522: New connection from 172.21.0.1 on port 1883.
+1600769522: New client connected from 172.21.0.1 as mqttjs_da1b6a02 (p2, c1, k60, u'orwell').
+1600769526: New connection from 172.21.0.1 on port 1883.
+1600769526: New client connected from 172.21.0.1 as auto-E7B5D2CA-2D1A-96C6-BF3D-758E965EA828 (p2, c1, k60, u'orwell').
+1600769526: Client mqttjs_da1b6a02 disconnected.
+1600769544: New connection from 172.21.0.1 on port 1883.
+1600769544: New client connected from 172.21.0.1 as mqttjs_d11c9d8e (p2, c1, k60, u'orwell').
+1600769548: Client mqttjs_d11c9d8e disconnected.
+1600769609: Client auto-E7B5D2CA-2D1A-96C6-BF3D-758E965EA828 disconnected.
+1600769621: New connection from 172.21.0.1 on port 1883.
+1600769621: New client connected from 172.21.0.1 as mqttjs_d5388350 (p2, c1, k60, u'orwell').
+1600769627: New connection from 172.21.0.1 on port 1883.
+1600769627: New client connected from 172.21.0.1 as auto-E37B61DA-D197-5B9E-3DB5-7AD74B867991 (p2, c1, k60, u'orwell').
+1600769633: Client mqttjs_d5388350 disconnected.
+1600770052: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600771085: New connection from 172.21.0.1 on port 1883.
+1600771085: New client connected from 172.21.0.1 as mqttjs_4459b115 (p2, c1, k60, u'orwell').
+1600771097: Client mqttjs_4459b115 disconnected.
+1600771853: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600772454: Client auto-E37B61DA-D197-5B9E-3DB5-7AD74B867991 disconnected.
+1600772467: New connection from 172.21.0.1 on port 1883.
+1600772467: New client connected from 172.21.0.1 as mqttjs_ebe8098e (p2, c1, k60, u'orwell').
+1600772475: New connection from 172.21.0.1 on port 1883.
+1600772475: New client connected from 172.21.0.1 as auto-D69D87EF-7E85-A6B3-2E73-8AE9A4B2FFB2 (p2, c1, k60, u'orwell').
+1600772480: Client mqttjs_ebe8098e disconnected.
+1600773654: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600775455: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600776187: Client auto-D69D87EF-7E85-A6B3-2E73-8AE9A4B2FFB2 disconnected.
+1600776203: New connection from 172.21.0.1 on port 1883.
+1600776203: New client connected from 172.21.0.1 as auto-C2422AFD-5ED2-329A-4234-B8DB9DA0982D (p2, c1, k60, u'orwell').
+1600776592: Client auto-C2422AFD-5ED2-329A-4234-B8DB9DA0982D disconnected.
+1600776612: New connection from 172.21.0.1 on port 1883.
+1600776612: New client connected from 172.21.0.1 as auto-9A1C640F-8387-E9F9-583D-E54A9DBCDD8C (p2, c1, k60, u'orwell').
+1600776637: New connection from 172.21.0.1 on port 1883.
+1600776637: New client connected from 172.21.0.1 as mqttjs_576aaaee (p2, c1, k60, u'orwell').
+1600776650: Client mqttjs_576aaaee disconnected.
+1600777256: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600777879: Client auto-9A1C640F-8387-E9F9-583D-E54A9DBCDD8C disconnected.
+1600777896: New connection from 172.21.0.1 on port 1883.
+1600777896: New client connected from 172.21.0.1 as auto-0C8B2346-07A0-48EE-1A2E-A23F0B1732BB (p2, c1, k60, u'orwell').
+1600777917: New connection from 172.21.0.1 on port 1883.
+1600777917: New client connected from 172.21.0.1 as mqttjs_bde34ad3 (p2, c1, k60, u'orwell').
+1600777929: Client mqttjs_bde34ad3 disconnected.
+1600777975: Client auto-0C8B2346-07A0-48EE-1A2E-A23F0B1732BB disconnected.
+1600777992: New connection from 172.21.0.1 on port 1883.
+1600777992: New client connected from 172.21.0.1 as auto-CABB39A6-311C-B91A-7F96-288D410B9A8E (p2, c1, k60, u'orwell').
+1600778001: New connection from 172.21.0.1 on port 1883.
+1600778001: New client connected from 172.21.0.1 as mqttjs_ad845410 (p2, c1, k60, u'orwell').
+1600778005: Client mqttjs_ad845410 disconnected.
+1600779057: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600779658: Client auto-CABB39A6-311C-B91A-7F96-288D410B9A8E disconnected.
+1600779676: New connection from 172.21.0.1 on port 1883.
+1600779676: New client connected from 172.21.0.1 as auto-9C4A5A9E-1DA5-32F2-E48A-A3BC286C773E (p2, c1, k60, u'orwell').
+1600779701: New connection from 172.21.0.1 on port 1883.
+1600779701: New client connected from 172.21.0.1 as mqttjs_20359b71 (p2, c1, k60, u'orwell').
+1600779714: Client mqttjs_20359b71 disconnected.
+1600780858: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600782659: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600783520: New connection from 172.21.0.1 on port 1883.
+1600783520: New client connected from 172.21.0.1 as mqttjs_e3b89714 (p2, c1, k60, u'orwell').
+1600783523: Client mqttjs_e3b89714 disconnected.
+1600783795: New connection from 172.21.0.1 on port 1883.
+1600783795: New client connected from 172.21.0.1 as mqttjs_1ca5a0a8 (p2, c1, k60, u'orwell').
+1600783798: Client mqttjs_1ca5a0a8 disconnected.
+1600783926: New connection from 172.21.0.1 on port 1883.
+1600783926: New client connected from 172.21.0.1 as mqttjs_c6430a98 (p2, c1, k60, u'orwell').
+1600783930: New connection from 172.21.0.1 on port 1883.
+1600783930: New client connected from 172.21.0.1 as mqttjs_e07e5e18 (p2, c1, k60, u'orwell').
+1600783936: Client mqttjs_c6430a98 disconnected.
+1600783998: Socket error on client mqttjs_e07e5e18, disconnecting.
+1600784222: New connection from 172.21.0.1 on port 1883.
+1600784222: New client connected from 172.21.0.1 as mqttjs_23b9b0f4 (p2, c1, k60, u'orwell').
+1600784235: Socket error on client mqttjs_23b9b0f4, disconnecting.
+1600784342: New connection from 172.21.0.1 on port 1883.
+1600784342: New client connected from 172.21.0.1 as mqttjs_627082c6 (p2, c1, k60, u'orwell').
+1600784346: Client mqttjs_627082c6 disconnected.
+1600784460: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600786261: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600787108: New connection from 172.21.0.1 on port 1883.
+1600787108: New client connected from 172.21.0.1 as mqttjs_d87c62fc (p2, c1, k60, u'orwell').
+1600787121: Client mqttjs_d87c62fc disconnected.
+1600787176: New connection from 172.21.0.1 on port 1883.
+1600787176: New client connected from 172.21.0.1 as mqttjs_c462da57 (p2, c1, k60, u'orwell').
+1600787181: Client mqttjs_c462da57 disconnected.
+1600787265: New connection from 172.21.0.1 on port 1883.
+1600787265: New client connected from 172.21.0.1 as mqttjs_c3cb64cb (p2, c1, k60, u'orwell').
+1600787269: Client mqttjs_c3cb64cb disconnected.
+1600787372: New connection from 172.21.0.1 on port 1883.
+1600787372: New client connected from 172.21.0.1 as mqttjs_e79c243c (p2, c1, k60, u'orwell').
+1600787384: Client mqttjs_e79c243c disconnected.
+1600788062: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600789863: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600791664: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600793465: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600795266: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600797067: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600798868: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600799189: New connection from 172.21.0.1 on port 1883.
+1600799189: New client connected from 172.21.0.1 as mqttjs_bf3f35f5 (p2, c1, k60, u'orwell').
+1600799201: Client mqttjs_bf3f35f5 disconnected.
+1600800669: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600802470: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600804271: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600806072: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600807873: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600809674: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600811475: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600813276: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600815077: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600816878: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600818679: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600820480: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600822281: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600824082: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600825883: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600827684: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600829485: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600831286: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600833087: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600834888: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600836689: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600838490: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600840291: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600842092: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600842599: New connection from 172.21.0.1 on port 1883.
+1600842599: New client connected from 172.21.0.1 as mqttjs_e6a26e6a (p2, c1, k60, u'orwell').
+1600842611: Client mqttjs_e6a26e6a disconnected.
+1600843893: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600845694: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600846255: New connection from 172.21.0.1 on port 1883.
+1600846255: New client connected from 172.21.0.1 as mqttjs_f1eae3a0 (p2, c1, k60, u'orwell').
+1600846268: Client mqttjs_f1eae3a0 disconnected.
+1600847495: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600848038: New connection from 172.21.0.1 on port 1883.
+1600848038: New client connected from 172.21.0.1 as mqttjs_d3b03a4e (p2, c1, k60, u'orwell').
+1600848052: Client mqttjs_d3b03a4e disconnected.
+1600849296: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600851097: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600852898: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600854542: New connection from 172.21.0.1 on port 1883.
+1600854542: New client connected from 172.21.0.1 as mqttjs_7075f29b (p2, c1, k60, u'orwell').
+1600854554: Client mqttjs_7075f29b disconnected.
+1600854635: New connection from 172.21.0.1 on port 1883.
+1600854635: New client connected from 172.21.0.1 as mqttjs_fd10ab91 (p2, c1, k60, u'orwell').
+1600854639: Client mqttjs_fd10ab91 disconnected.
+1600854699: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600856500: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600858301: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600859416: New connection from 172.21.0.1 on port 1883.
+1600859416: New client connected from 172.21.0.1 as mqttjs_648d72ec (p2, c1, k60, u'orwell').
+1600859429: Client mqttjs_648d72ec disconnected.
+1600859969: Client auto-9C4A5A9E-1DA5-32F2-E48A-A3BC286C773E disconnected.
+1600859969: mosquitto version 1.6.12 terminating
+1600859969: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600868845: mosquitto version 1.6.12 starting
+1600868845: Config loaded from /mosquitto/config/mosquitto.conf.
+1600868845: Opening ipv4 listen socket on port 1883.
+1600868845: Opening ipv6 listen socket on port 1883.
+1600868845: mosquitto version 1.6.12 running
+1600868937: mosquitto version 1.6.12 terminating
+1600868937: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600869191: mosquitto version 1.6.12 starting
+1600869191: Config loaded from /mosquitto/config/mosquitto.conf.
+1600869191: Opening ipv4 listen socket on port 1883.
+1600869191: Opening ipv6 listen socket on port 1883.
+1600869191: mosquitto version 1.6.12 running
+1600869191: New connection from 172.23.0.1 on port 1883.
+1600869191: New client connected from 172.23.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600869203: New connection from 172.23.0.1 on port 1883.
+1600869203: New client connected from 172.23.0.1 as auto-D5684E8D-F129-9EF5-4347-699BF97C87E2 (p2, c1, k60, u'orwell').
+1600869272: Client auto-D5684E8D-F129-9EF5-4347-699BF97C87E2 disconnected.
+1600869272: mosquitto version 1.6.12 terminating
+1600869272: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600869734: mosquitto version 1.6.12 starting
+1600869734: Config loaded from /mosquitto/config/mosquitto.conf.
+1600869734: Opening ipv4 listen socket on port 1883.
+1600869734: Opening ipv6 listen socket on port 1883.
+1600869734: mosquitto version 1.6.12 running
+1600869735: New connection from 172.23.0.1 on port 1883.
+1600869735: New client connected from 172.23.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600869744: New connection from 172.23.0.1 on port 1883.
+1600869744: New client connected from 172.23.0.1 as mqttjs_18b8ba39 (p2, c1, k60, u'orwell').
+1600869745: New connection from 172.23.0.1 on port 1883.
+1600869745: New client connected from 172.23.0.1 as auto-76B1F622-B29F-F7D7-E98A-2B10F8FA4861 (p2, c1, k60, u'orwell').
+1600869749: Client mqttjs_18b8ba39 disconnected.
+1600869759: New connection from 172.23.0.1 on port 1883.
+1600869759: New client connected from 172.23.0.1 as mqttjs_ebed89ff (p2, c1, k60, u'orwell').
+1600869763: Client mqttjs_ebed89ff disconnected.
+1600869828: New connection from 172.23.0.1 on port 1883.
+1600869828: New client connected from 172.23.0.1 as mqttjs_65d3be5a (p2, c1, k60, u'orwell').
+1600869840: Client mqttjs_65d3be5a disconnected.
+1600869910: Client auto-76B1F622-B29F-F7D7-E98A-2B10F8FA4861 disconnected.
+1600869911: mosquitto version 1.6.12 terminating
+1600869911: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600869995: mosquitto version 1.6.12 starting
+1600869995: Config loaded from /mosquitto/config/mosquitto.conf.
+1600869995: Opening ipv4 listen socket on port 1883.
+1600869995: Opening ipv6 listen socket on port 1883.
+1600869995: mosquitto version 1.6.12 running
+1600869996: New connection from 172.24.0.1 on port 1883.
+1600869996: New client connected from 172.24.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600870025: mosquitto version 1.6.12 starting
+1600870025: Config loaded from /mosquitto/config/mosquitto.conf.
+1600870025: Opening ipv4 listen socket on port 1883.
+1600870025: Opening ipv6 listen socket on port 1883.
+1600870025: mosquitto version 1.6.12 running
+1600870026: New connection from 172.24.0.1 on port 1883.
+1600870026: New client connected from 172.24.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600870032: New connection from 172.24.0.1 on port 1883.
+1600870032: New client connected from 172.24.0.1 as mqttjs_26e3dccf (p2, c1, k60, u'orwell').
+1600870039: New connection from 172.24.0.1 on port 1883.
+1600870039: New client connected from 172.24.0.1 as auto-C966F748-F3E5-5710-913E-431E4EE3DBF6 (p2, c1, k60, u'orwell').
+1600870044: Client mqttjs_26e3dccf disconnected.
+1600870109: New connection from 172.24.0.1 on port 1883.
+1600870109: New client connected from 172.24.0.1 as mqttjs_2f220411 (p2, c1, k60, u'orwell').
+1600870113: Client mqttjs_2f220411 disconnected.
+1600870179: New connection from 172.24.0.1 on port 1883.
+1600870179: New client connected from 172.24.0.1 as mqttjs_7231d160 (p2, c1, k60, u'orwell').
+1600870183: Client mqttjs_7231d160 disconnected.
+1600871664: New connection from 172.24.0.1 on port 1883.
+1600871664: New client connected from 172.24.0.1 as mqttjs_8f28fd6c (p2, c1, k60, u'orwell').
+1600871676: Client mqttjs_8f28fd6c disconnected.
+1600871741: New connection from 172.24.0.1 on port 1883.
+1600871741: New client connected from 172.24.0.1 as mqttjs_6d2eeabd (p2, c1, k60, u'orwell').
+1600871745: Client mqttjs_6d2eeabd disconnected.
+1600871810: New connection from 172.24.0.1 on port 1883.
+1600871810: New client connected from 172.24.0.1 as mqttjs_babd3470 (p2, c1, k60, u'orwell').
+1600871814: Client mqttjs_babd3470 disconnected.
+1600871826: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600871879: New connection from 172.24.0.1 on port 1883.
+1600871879: New client connected from 172.24.0.1 as mqttjs_3896d6be (p2, c1, k60, u'orwell').
+1600871893: Client mqttjs_3896d6be disconnected.
+1600871959: New connection from 172.24.0.1 on port 1883.
+1600871959: New client connected from 172.24.0.1 as mqttjs_72354b34 (p2, c1, k60, u'orwell').
+1600871965: Client mqttjs_72354b34 disconnected.
+1600872030: New connection from 172.24.0.1 on port 1883.
+1600872030: New client connected from 172.24.0.1 as mqttjs_65fcdfc8 (p2, c1, k60, u'orwell').
+1600872034: Client mqttjs_65fcdfc8 disconnected.
+1600872099: New connection from 172.24.0.1 on port 1883.
+1600872099: New client connected from 172.24.0.1 as mqttjs_d6be9e73 (p2, c1, k60, u'orwell').
+1600872113: Client mqttjs_d6be9e73 disconnected.
+1600872178: New connection from 172.24.0.1 on port 1883.
+1600872178: New client connected from 172.24.0.1 as mqttjs_0a795724 (p2, c1, k60, u'orwell').
+1600872182: Client mqttjs_0a795724 disconnected.
+1600872248: New connection from 172.24.0.1 on port 1883.
+1600872248: New client connected from 172.24.0.1 as mqttjs_bde705c8 (p2, c1, k60, u'orwell').
+1600872251: Client mqttjs_bde705c8 disconnected.
+1600872317: New connection from 172.24.0.1 on port 1883.
+1600872317: New client connected from 172.24.0.1 as mqttjs_d2ae5e83 (p2, c1, k60, u'orwell').
+1600872330: Client mqttjs_d2ae5e83 disconnected.
+1600872395: New connection from 172.24.0.1 on port 1883.
+1600872395: New client connected from 172.24.0.1 as mqttjs_7ecf9da1 (p2, c1, k60, u'orwell').
+1600872399: Client mqttjs_7ecf9da1 disconnected.
+1600872464: New connection from 172.24.0.1 on port 1883.
+1600872464: New client connected from 172.24.0.1 as mqttjs_0a7743da (p2, c1, k60, u'orwell').
+1600872468: Client mqttjs_0a7743da disconnected.
+1600872533: New connection from 172.24.0.1 on port 1883.
+1600872533: New client connected from 172.24.0.1 as mqttjs_c31d57d1 (p2, c1, k60, u'orwell').
+1600872545: Client mqttjs_c31d57d1 disconnected.
+1600872610: New connection from 172.24.0.1 on port 1883.
+1600872610: New client connected from 172.24.0.1 as mqttjs_868062cd (p2, c1, k60, u'orwell').
+1600872614: Client mqttjs_868062cd disconnected.
+1600872681: New connection from 172.24.0.1 on port 1883.
+1600872681: New client connected from 172.24.0.1 as mqttjs_85876d43 (p2, c1, k60, u'orwell').
+1600872686: Client mqttjs_85876d43 disconnected.
+1600872751: New connection from 172.24.0.1 on port 1883.
+1600872751: New client connected from 172.24.0.1 as mqttjs_afef2d11 (p2, c1, k60, u'orwell').
+1600872764: Client mqttjs_afef2d11 disconnected.
+1600872829: New connection from 172.24.0.1 on port 1883.
+1600872829: New client connected from 172.24.0.1 as mqttjs_6ac178ad (p2, c1, k60, u'orwell').
+1600872834: Client mqttjs_6ac178ad disconnected.
+1600872899: New connection from 172.24.0.1 on port 1883.
+1600872899: New client connected from 172.24.0.1 as mqttjs_70454c2c (p2, c1, k60, u'orwell').
+1600872904: Client mqttjs_70454c2c disconnected.
+1600872970: New connection from 172.24.0.1 on port 1883.
+1600872970: New client connected from 172.24.0.1 as mqttjs_1dd1c0a1 (p2, c1, k60, u'orwell').
+1600872983: Client mqttjs_1dd1c0a1 disconnected.
+1600873048: New connection from 172.24.0.1 on port 1883.
+1600873048: New client connected from 172.24.0.1 as mqttjs_61c1b156 (p2, c1, k60, u'orwell').
+1600873052: Client mqttjs_61c1b156 disconnected.
+1600873118: New connection from 172.24.0.1 on port 1883.
+1600873118: New client connected from 172.24.0.1 as mqttjs_f62a6148 (p2, c1, k60, u'orwell').
+1600873122: Client mqttjs_f62a6148 disconnected.
+1600873188: New connection from 172.24.0.1 on port 1883.
+1600873188: New client connected from 172.24.0.1 as mqttjs_45997a8d (p2, c1, k60, u'orwell').
+1600873200: Client mqttjs_45997a8d disconnected.
+1600873265: New connection from 172.24.0.1 on port 1883.
+1600873265: New client connected from 172.24.0.1 as mqttjs_fe994d53 (p2, c1, k60, u'orwell').
+1600873269: Client mqttjs_fe994d53 disconnected.
+1600873334: New connection from 172.24.0.1 on port 1883.
+1600873334: New client connected from 172.24.0.1 as mqttjs_921ec6c3 (p2, c1, k60, u'orwell').
+1600873336: New connection from 172.24.0.1 on port 1883.
+1600873336: New client connected from 172.24.0.1 as mqttjs_8a3f19eb (p2, c1, k60, u'orwell').
+1600873338: Client mqttjs_921ec6c3 disconnected.
+1600873355: Socket error on client mqttjs_8a3f19eb, disconnecting.
+1600873404: New connection from 172.24.0.1 on port 1883.
+1600873404: New client connected from 172.24.0.1 as mqttjs_bf1757c7 (p2, c1, k60, u'orwell').
+1600873404: New connection from 172.24.0.1 on port 1883.
+1600873404: New client connected from 172.24.0.1 as mqttjs_51a9f788 (p2, c1, k60, u'orwell').
+1600873417: Client mqttjs_bf1757c7 disconnected.
+1600873515: New connection from 172.24.0.1 on port 1883.
+1600873515: New client connected from 172.24.0.1 as mqttjs_27aaad98 (p2, c1, k60, u'orwell').
+1600873519: Client mqttjs_27aaad98 disconnected.
+1600873554: New connection from 172.24.0.1 on port 1883.
+1600873554: New client connected from 172.24.0.1 as mqttjs_bdc6f78e (p2, c1, k60, u'orwell').
+1600873559: Client mqttjs_bdc6f78e disconnected.
+1600873594: New connection from 172.24.0.1 on port 1883.
+1600873594: New client connected from 172.24.0.1 as mqttjs_4bf4a0e7 (p2, c1, k60, u'orwell').
+1600873606: Client mqttjs_4bf4a0e7 disconnected.
+1600873627: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600873671: New connection from 172.24.0.1 on port 1883.
+1600873671: New client connected from 172.24.0.1 as mqttjs_d46735c3 (p2, c1, k60, u'orwell').
+1600873675: Client mqttjs_d46735c3 disconnected.
+1600873830: New connection from 172.24.0.1 on port 1883.
+1600873830: New client connected from 172.24.0.1 as mqttjs_9a855708 (p2, c1, k60, u'orwell').
+1600873843: Client mqttjs_9a855708 disconnected.
+1600873999: New connection from 172.24.0.1 on port 1883.
+1600873999: New client connected from 172.24.0.1 as mqttjs_4603f4d9 (p2, c1, k60, u'orwell').
+1600874004: Client mqttjs_4603f4d9 disconnected.
+1600875428: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600875477: Client auto-C966F748-F3E5-5710-913E-431E4EE3DBF6 disconnected.
+1600875477: mosquitto version 1.6.12 terminating
+1600875477: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600875508: mosquitto version 1.6.12 starting
+1600875508: Config loaded from /mosquitto/config/mosquitto.conf.
+1600875508: Opening ipv4 listen socket on port 1883.
+1600875508: Opening ipv6 listen socket on port 1883.
+1600875508: mosquitto version 1.6.12 running
+1600875512: New connection from 172.24.0.1 on port 1883.
+1600875512: New client connected from 172.24.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600875522: New connection from 172.24.0.1 on port 1883.
+1600875522: New client connected from 172.24.0.1 as auto-DA0B7D0D-069A-EC52-F57A-38973AE58C7A (p2, c1, k60, u'orwell').
+1600875641: New connection from 172.24.0.1 on port 1883.
+1600875641: New client connected from 172.24.0.1 as mqttjs_be93d52d (p2, c1, k60, u'orwell').
+1600875653: Client mqttjs_be93d52d disconnected.
+1600876304: mosquitto version 1.6.12 terminating
+1600876304: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600876332: mosquitto version 1.6.12 starting
+1600876332: Config loaded from /mosquitto/config/mosquitto.conf.
+1600876332: Opening ipv4 listen socket on port 1883.
+1600876332: Opening ipv6 listen socket on port 1883.
+1600876332: mosquitto version 1.6.12 running
+1600876333: New connection from 172.24.0.1 on port 1883.
+1600876333: New client connected from 172.24.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600876345: New connection from 172.24.0.1 on port 1883.
+1600876345: New client connected from 172.24.0.1 as auto-FD036569-3B20-8451-D7F9-D5C5A67F9CEB (p2, c1, k60, u'orwell').
+1600876354: New connection from 172.24.0.1 on port 1883.
+1600876354: New client connected from 172.24.0.1 as mqttjs_5d78cc14 (p2, c1, k60, u'orwell').
+1600876366: Client mqttjs_5d78cc14 disconnected.
+1600876445: New connection from 172.24.0.1 on port 1883.
+1600876445: New client connected from 172.24.0.1 as mqttjs_008e9cca (p2, c1, k60, u'orwell').
+1600876450: Client mqttjs_008e9cca disconnected.
+1600876629: New connection from 172.24.0.1 on port 1883.
+1600876629: New client connected from 172.24.0.1 as mqttjs_a205de58 (p2, c1, k60, u'orwell').
+1600876642: Client mqttjs_a205de58 disconnected.
+1600876689: New connection from 172.24.0.1 on port 1883.
+1600876689: New client connected from 172.24.0.1 as mqttjs_b1b3ef36 (p2, c1, k60, u'orwell').
+1600876693: Client mqttjs_b1b3ef36 disconnected.
+1600876731: New connection from 172.24.0.1 on port 1883.
+1600876731: New client connected from 172.24.0.1 as mqttjs_a29acdae (p2, c1, k60, u'orwell').
+1600876736: Client mqttjs_a29acdae disconnected.
+1600876739: mosquitto version 1.6.12 terminating
+1600876739: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600876767: mosquitto version 1.6.12 starting
+1600876767: Config loaded from /mosquitto/config/mosquitto.conf.
+1600876767: Opening ipv4 listen socket on port 1883.
+1600876767: Opening ipv6 listen socket on port 1883.
+1600876767: mosquitto version 1.6.12 running
+1600876768: New connection from 172.25.0.1 on port 1883.
+1600876768: New client connected from 172.25.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1600876780: New connection from 172.25.0.1 on port 1883.
+1600876780: New client connected from 172.25.0.1 as auto-6A8745CE-F627-97B6-43A0-FB5516C281F3 (p2, c1, k60, u'orwell').
+1600876785: New connection from 172.25.0.1 on port 1883.
+1600876785: New client connected from 172.25.0.1 as mqttjs_68ba84be (p2, c1, k60, u'orwell').
+1600876789: Client mqttjs_68ba84be disconnected.
+1600878568: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600880369: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600882170: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600883971: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600885772: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600887573: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600889374: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600891175: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600892976: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600894777: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600896578: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600898379: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600900180: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600901981: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600903782: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600905583: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600907384: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600909185: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600910986: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600912787: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600914588: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600916389: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600918190: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600919991: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600921792: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600923593: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600925394: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600927195: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600928996: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600930797: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600932598: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600934399: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600936200: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600938001: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600939802: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600941603: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600943404: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600945205: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600947006: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600948807: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600950608: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600952409: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600954210: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600956011: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600957812: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600959613: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600961414: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600963215: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600965016: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600966817: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600968618: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600970419: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600972220: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600974021: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600975822: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600977623: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600979424: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600981225: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600983026: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600984827: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600986628: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600988429: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600990230: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600992031: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600993832: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600995633: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600997434: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1600999235: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601001036: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601002837: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601004638: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601006439: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601008240: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601010041: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601011842: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601013643: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601015444: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601017245: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601019046: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601020847: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601022648: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601024449: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601026250: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601028051: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601029852: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601031653: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601033454: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601035255: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601037056: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601038857: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601040658: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601042459: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601044260: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601046061: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601047862: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601049663: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601051464: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601053265: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601055066: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601056867: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601058668: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601060469: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601062270: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601064071: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601065872: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601067673: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601069474: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601071275: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601073076: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601074877: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601076678: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601078479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601080280: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601082081: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601083882: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601085683: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601087484: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601089285: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601091086: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601092887: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601094688: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601096489: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601098290: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601100091: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601101892: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601103693: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601105494: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601107295: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601109096: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601110897: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601112324: Client auto-6A8745CE-F627-97B6-43A0-FB5516C281F3 disconnected.
+1601112325: mosquitto version 1.6.12 terminating
+1601112325: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601112397: mosquitto version 1.6.12 starting
+1601112397: Config loaded from /mosquitto/config/mosquitto.conf.
+1601112397: Opening ipv4 listen socket on port 1883.
+1601112397: Opening ipv6 listen socket on port 1883.
+1601112397: mosquitto version 1.6.12 running
+1601112398: New connection from 172.26.0.1 on port 1883.
+1601112398: New client connected from 172.26.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1601112414: New connection from 172.26.0.1 on port 1883.
+1601112414: New client connected from 172.26.0.1 as auto-EF17D0B5-E120-86B7-626C-5F2AA8CC7E33 (p2, c1, k60, u'orwell').
+1601112522: New connection from 172.26.0.1 on port 1883.
+1601112522: New client connected from 172.26.0.1 as mqttjs_191899dd (p2, c1, k60, u'orwell').
+1601112534: Client mqttjs_191899dd disconnected.
+1601112599: New connection from 172.26.0.1 on port 1883.
+1601112599: New client connected from 172.26.0.1 as mqttjs_14271190 (p2, c1, k60, u'orwell').
+1601112603: Client mqttjs_14271190 disconnected.
+1601112638: New connection from 172.26.0.1 on port 1883.
+1601112638: New client connected from 172.26.0.1 as mqttjs_ae5d66aa (p2, c1, k60, u'orwell').
+1601112642: Client mqttjs_ae5d66aa disconnected.
+1601112676: New connection from 172.26.0.1 on port 1883.
+1601112676: New client connected from 172.26.0.1 as mqttjs_a3a4e1d9 (p2, c1, k60, u'orwell').
+1601112680: Client mqttjs_a3a4e1d9 disconnected.
+1601114198: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601115999: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601117800: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601119601: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601121402: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601123203: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601125004: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601126805: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601128606: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601130407: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601132208: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601134009: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601135810: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601137611: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601139412: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601141213: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601143014: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601144815: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601146616: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601148417: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601150218: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601152019: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601153820: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601155621: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601157422: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601159223: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601161024: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601162825: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601164626: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601166427: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601168228: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601170029: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601171830: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601173631: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601175432: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601177233: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601179034: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601180835: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601182636: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601184437: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601186238: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601188039: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601189840: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601191641: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601193442: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601195243: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601196018: Client auto-EF17D0B5-E120-86B7-626C-5F2AA8CC7E33 disconnected.
+1601196018: mosquitto version 1.6.12 terminating
+1601196018: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601196050: mosquitto version 1.6.12 starting
+1601196050: Config loaded from /mosquitto/config/mosquitto.conf.
+1601196050: Opening ipv4 listen socket on port 1883.
+1601196050: Opening ipv6 listen socket on port 1883.
+1601196050: mosquitto version 1.6.12 running
+1601196050: New connection from 172.27.0.1 on port 1883.
+1601196050: New client connected from 172.27.0.1 as mosqsub|28373-raspberry (p2, c1, k60, u'orwell').
+1601196063: New connection from 172.27.0.1 on port 1883.
+1601196063: New client connected from 172.27.0.1 as auto-198698F7-0AB3-5C5E-99F1-BC05A14DACED (p2, c1, k60, u'orwell').
+1601196114: New connection from 172.27.0.1 on port 1883.
+1601196114: New client connected from 172.27.0.1 as mqttjs_af25b25f (p2, c1, k60, u'orwell').
+1601196137: Client mqttjs_af25b25f disconnected.
+1601196171: New connection from 172.27.0.1 on port 1883.
+1601196171: New client connected from 172.27.0.1 as mqttjs_4063dcef (p2, c1, k60, u'orwell').
+1601196175: Client mqttjs_4063dcef disconnected.
+1601197850: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601199651: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601199889: Socket error on client mosqsub|28373-raspberry, disconnecting.
+1601201452: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601203253: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601205054: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601206855: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601208656: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601210457: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1601211475: Client auto-198698F7-0AB3-5C5E-99F1-BC05A14DACED disconnected.
+1601211475: mosquitto version 1.6.12 terminating
+1601211475: Saving in-memory database to /mosquitto/data/mosquitto.db.
